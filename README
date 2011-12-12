@@ -1,0 +1,23 @@
+Fool (File tOOLkit) est un script écrit en bash sous licence GNU
+General Public License permettant de s'assurer de la bonne santé,
+de l'intégrité, de créer des sauvegardes de grosse quantité de gros fichiers.
+
+Il à été conçu pour traiter de très grand nombre de fichiers d'assez grosse
+taille, notamment les photos, j'en dispose un assez grand nombre de photos
+(~120Go), cette taille m'empêche d'utiliser un outils de version comme Git
+ou Svn, c'est pour cela que j'ai créé ce script qui me permet de faire des
+synchronisations sur des disques dûrs, sur des serveurs distants ou encore
+de détecter les doublons, vérifier l'intégrité des données avec le calcul
+des sommes md5, etc…
+
+Fool est un outils vous donnant les moyens de garder longtemps vos données
+auxquelles vous tenez à l'aide d'actions simples, le contrôle d'intégrité
+qui peut être lancé après une copie, la synchronisation vous permettant de
+multiplier les copies de vos données, etc…
+
+Présentation :
+http://www.digitalspirit.org/blog/index.php/post/2010/07/19/Fool-%3A-File-tOOl%2C-un-outils-pour-ses-sauvegardes
+
+Documentation :
+http://www.digitalspirit.org/wiki/projets/fool
+
